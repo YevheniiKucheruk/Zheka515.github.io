@@ -1,0 +1,308 @@
+.nav{
+	
+	display: flex;
+	border-bottom: solid#000000;
+	border-width: thin;
+	
+}
+.Li{
+	list-style-type: none;
+	padding-left: 50px;
+}
+.h3{
+	border-bottom: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000
+
+}
+.img{
+	width:200px; 
+	height:200px;
+	bottom: 10px;
+
+}
+.litdesplan{
+	padding-top: 0px;
+	margin-left: 220px;
+	margin-right: 220px;
+	border: double; #000000;
+	margin-bottom: 120px;
+	margin-top: -200px
+}
+.button{
+	border:solid;#000000;
+	border-width: 3px;
+	box-sizing:border-box;
+	width: 90px;
+	text-align: center;
+	margin-left: 220px;
+	margin-top: -100px;
+	margin-bottom: 80px
+
+}
+.art{
+	margin-left: 220px;
+	margin-top: -225px;
+	text-align: justify;
+	line-height: 15px;
+	
+}
+.arti{
+	margin-left: 220px;
+	margin-top: -25px;
+	text-align: justify;
+	line-height: 15px;	
+}
+.artic{
+	margin-top: 40px;
+	text-align: justify;
+	line-height: 15px;	
+}
+.artic1{
+	margin-top: -15px;
+	text-align: justify;
+	line-height: 15px;	
+}
+.table{
+	display:block;
+	width: 177px;
+	margin:20px auto;
+}
+.imgg{
+	width:500px; 
+	height:300px;
+	bottom: 10px;
+}
+.article{
+	margin-left: 520px;
+	margin-top: -305px;
+	line-height: 15px;
+	text-align: justify;
+}
+.article1{
+	margin-left: 520px;
+	margin-top: -20px;
+	line-height: 15px;
+	text-align: justify;
+}
+.article2{
+	margin-left: 520px;
+	margin-top: -20px;
+	line-height: 15px;
+	text-align: justify;
+}
+.article3{
+	margin-left: 520px;
+	margin-top: -20px;
+	line-height: 15px;
+	margin-bottom: 70px;
+	text-align: justify;
+}
+.mowart1{
+	line-height: 15px;
+	margin-top: -15px;
+	text-align: justify;
+}
+.mowart2{
+	line-height: 15px;
+	margin-top: -15px;
+	text-align: justify;
+}
+.ven1div{
+	margin-left: 220px;
+	margin-top: -205px;
+	line-height: 15px;
+	text-align: justify;
+}
+.ven2div{
+	margin-left: 220px;
+	margin-top: -25px;
+	line-height: 15px;
+	text-align: justify;
+}
+.ven2div{
+	margin-left: 220px;
+	margin-top: -25px;
+	line-height: 15px;
+	text-align: justify;
+}
+.ven3div{
+	margin-top: -25px;
+	line-height: 15px;
+	text-align: justify;
+}
+.ven4div{
+	margin-top: -25px;
+	line-height: 15px;
+	text-align: justify;
+}
+.ven5div{
+	line-height: 15px;
+	text-align: justify;
+}
+.ven6div{
+	line-height: 15px;
+	margin-bottom: -45px;
+	text-align: justify;
+}
+.consven{
+	border: double;
+	border-width: 3px;
+	box-sizing: border-box;
+	width: 240px;
+	padding: 15px ;
+	text-align: center;
+}
+.ven7div{
+	line-height: 15px;
+	margin-left: 260px;
+	margin-top: -260px;
+	text-align: justify;
+}
+.ven8div{
+	line-height: 15px;
+	margin-left: 260px;
+	margin-top: -25px;
+	text-align: justify;
+}
+.ven9div{
+	line-height: 15px;
+	margin-left: 260px;
+	margin-top: -25px;
+	text-align: justify;
+}
+.ven10div{
+	line-height: 15px;
+	text-align: justify;
+}
+/*Земля*/
+.ear1div{
+	margin-left: 220px;
+	margin-top: -205px;
+	line-height:15px;
+	text-align: justify;
+}
+
+.ear2div{
+	margin-left: 220px;
+	margin-top: -25px;
+	line-height:15px;
+	text-align: justify;
+}
+
+.ear3div{
+	margin-top: -20px;
+	line-height: 15px;
+	text-align: justify;
+}
+.ear4div{
+	line-height: 15px;
+	text-align: justify;
+	margin-bottom: -40px;
+}
+.ear5div{
+	line-height: 15px;
+	text-align: justify;
+	margin-bottom: -40px;
+	margin-top: -10px;
+}
+.ear6div{
+	line-height: 15px;
+	text-align: justify;
+	margin-bottom: -70px;
+	margin-top: -10px;
+}
+
+.ear7div{
+	line-height: 15px;
+	text-align: justify;
+	margin-bottom: -40px;
+	margin-top: -10px;
+}
+.ear8div{
+	line-height: 15px;
+	text-align: justify;
+	margin-bottom: -10px;
+	margin-top: -10px;
+}
+.ear9div{
+	margin-left: 220px;
+	margin-top: -205px;
+	margin-bottom: 80px;
+	text-align: justify;
+	line-height: 15px;
+}
+/*Марс*/
+.mars1div{
+	margin-left: 220px;
+	margin-top: -205px;
+	margin-bottom: 100px;
+	line-height:15px;
+	text-align: justify;
+}
+.mars2div{
+
+	line-height:15px;
+	text-align: justify;
+}
+.mars3div{
+	border: double;
+	border-width: 3px;
+	width: 305px;
+	margin: 5px auto;
+	text-align: center;
+}
+.mars4div{
+	line-height:15px;
+	text-align: justify;
+}
+.mars5div{
+	margin-top: -30px;
+	line-height:15px;
+	text-align: justify;
+}
+.mars6div{
+	margin-top: -30px;
+	line-height:15px;
+	text-align: justify;
+}
+.marsimg{
+	width: 300px;
+	height:300px;
+}
+.mars7div{
+	margin-left: 320px;
+	margin-top: -305px;
+	margin-bottom: 260px;
+	line-height:15px;
+	text-align: justify;
+}
+.mars8div{
+	line-height:15px;
+	text-align: justify;
+	margin-bottom: -30px;
+}
+.mars9div{
+	line-height:15px;
+	text-align: justify;
+	margin-bottom: -30px;
+}
+.mars10div{
+	line-height:15px;
+	text-align: justify;
+}
+.mars11div{
+	line-height:15px;
+	text-align: justify;
+	margin-top: -10px;
+}
+.mars12div{
+	line-height:15px;
+	text-align: justify;
+	margin-top: -20px;
+}
+.mars13div{
+	line-height:15px;
+	text-align: justify;
+	margin-top: -20px;
+}
